@@ -1,5 +1,6 @@
 # HoloLensRecognition
-##### Project files for *End-to-end Detection & Visualization of Math Expressions in AR System*. 
+##### Project files for *End-to-end Detection & Visualization of Math Expressions in AR System*.
+[Download Link (too large for github)](https://drive.google.com/drive/folders/0BzCHDVeHLa0yUTBmcUpVVHN0UFE)
 ###### Completed as part of COMP590: Exploring Virtual Worlds with Henry Fuchs. 
 ---
 [Final Presentation Slides](https://docs.google.com/presentation/d/1KWAsIZi9pAkUHzN-lfM9JT1vxZ9pp_INDFsZa68Rlls/edit?usp=sharing)
