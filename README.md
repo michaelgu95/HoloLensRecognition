@@ -1,4 +1,5 @@
 # HoloLensRecognition
+![z=x+y](https://ibb.co/fFF6am)
 ##### Project files for *End-to-end Detection & Visualization of Math Expressions in AR System*.
 * [Download Link (too large for github)](https://drive.google.com/drive/folders/0BzCHDVeHLa0yUTBmcUpVVHN0UFE)
 * [Final Presentation Slides](https://docs.google.com/presentation/d/1KWAsIZi9pAkUHzN-lfM9JT1vxZ9pp_INDFsZa68Rlls/edit?usp=sharing)
