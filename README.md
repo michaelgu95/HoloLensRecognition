@@ -1,4 +1,4 @@
-## End-to-end Detection & Visualization of Math Expressions in AR System
+## End-to-end Detection & Visualization of Written Math Expressions in AR System
 Features:
 - Voice-initiated image capture using the command "Detect!"
 - Written expression on whiteboard -> LaTex conversion using Mathpix API integration
