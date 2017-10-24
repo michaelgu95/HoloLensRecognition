@@ -1,8 +1,8 @@
 ## End-to-end Detection & Visualization of Math Expressions in AR System
 Features:
-- voice-initiated image capture using the command "Detect!"
-- written expression on whiteboard -> LaTex conversion using Mathpix API integration
-- dynamic 3D mesh generation for visual representation based on LaTex result
+- Voice-initiated image capture using the command "Detect!"
+- Written expression on whiteboard -> LaTex conversion using Mathpix API integration
+- Dynamic 3D mesh generation for visual representation based on LaTex result
 
 Completed as part of COMP590: Exploring Virtual Worlds with Henry Fuchs
 * [Project files (full configuration too large for github)](https://drive.google.com/drive/folders/0BzCHDVeHLa0yUTBmcUpVVHN0UFE)
