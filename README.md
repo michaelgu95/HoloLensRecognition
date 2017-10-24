@@ -4,7 +4,7 @@ Features:
 - Written expression on whiteboard -> LaTex conversion using Mathpix API integration
 - Dynamic 3D mesh generation for visual representation based on LaTex result
 
-Completed as part of COMP590: *Exploring Virtual Worlds* w/ ![Dr. Henry Fuchs](https://www.google.com/search?q=henry+fuchs&oq=henry+fuchs&aqs=chrome..69i57j0l5.967j0j7&sourceid=chrome&ie=UTF-8)
+Completed as part of COMP590: *Exploring Virtual Worlds* w/ [Dr. Henry Fuchs](https://www.google.com/search?q=henry+fuchs&oq=henry+fuchs&aqs=chrome..69i57j0l5.967j0j7&sourceid=chrome&ie=UTF-8)
 * [Project files (full configuration too large for github)](https://drive.google.com/drive/folders/0BzCHDVeHLa0yUTBmcUpVVHN0UFE)
 * [Final Presentation Slides](https://docs.google.com/presentation/d/1KWAsIZi9pAkUHzN-lfM9JT1vxZ9pp_INDFsZa68Rlls/edit?usp=sharing)
 
