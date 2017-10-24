@@ -1,4 +1,9 @@
-### Project files for *End-to-end Detection & Visualization of Math Expressions in AR System*.
+## End-to-end Detection & Visualization of Math Expressions in AR System
+Features:
+- voice-initiated image capture using the command "Detect!"
+- written expression on whiteboard -> LaTex conversion using Mathpix API integration
+- dynamic 3D mesh generation for visual representation based on LaTex result
+
 Completed as part of COMP590: Exploring Virtual Worlds with Henry Fuchs
 * [Project files (full configuration too large for github)](https://drive.google.com/drive/folders/0BzCHDVeHLa0yUTBmcUpVVHN0UFE)
 * [Final Presentation Slides](https://docs.google.com/presentation/d/1KWAsIZi9pAkUHzN-lfM9JT1vxZ9pp_INDFsZa68Rlls/edit?usp=sharing)
