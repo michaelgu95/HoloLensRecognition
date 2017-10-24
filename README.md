@@ -13,7 +13,7 @@ z = x+y
 z = sqrt(x^2+y^2)
 ![](https://image.ibb.co/gh9m25/Screen_Shot_2017_07_22_at_2_48_28_PM.png)
 
-### Build 
+## Build 
 From Unity, choose File->Build Settings to bring up the Build Settings
 window. All of the scenes in the Scenes to Build section should be checked.
 Choose Windows Store as the Platform. On the right side, choose Universal 10
@@ -27,7 +27,7 @@ Visual Studio. From Visual Studio, set the Configuration to **Release**
 for faster builds (doesn't use .NET Native) or **Master** to build the
 type of package the Store needs (uses .NET Native).
 
-## Building for HoloLens
+## Configuring HoloLens
 
 Make sure to change ARM or x64 to **x86**.
 Now you can deploy to the Emulator, a Remote Device, or create a Store
