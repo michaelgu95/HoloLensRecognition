@@ -11,14 +11,14 @@ Completed as part of COMP590: *Exploring Virtual Worlds* w/ [Dr. Henry Fuchs](ht
 ---
 ![Demo](https://image.ibb.co/j90th5/Screen_Shot_2017_07_22_at_2_42_28_PM.png)
 
-## Sample equations
+# Sample equations
 z = x+y
 ![](https://image.ibb.co/d45iMR/Screen_Shot_2017_10_24_at_5_13_00_PM.png)
 
 z = sqrt(x^2+y^2)
 ![](https://image.ibb.co/gh9m25/Screen_Shot_2017_07_22_at_2_48_28_PM.png)
 
-## Build 
+# Build 
 From Unity, choose File->Build Settings to bring up the Build Settings
 window. All of the scenes in the Scenes to Build section should be checked.
 Choose Windows Store as the Platform. On the right side, choose Universal 10
