@@ -50,7 +50,7 @@ The ToolManager handles the Button and Tool settings that can be called from any
 
 Each view (detection window, resulting text, graphical mesh) is a scene in Unity. The ViewLoader handles loading these scenes and the TransitionManager manages how flow moves from an old scene to a new scene through callbacks from the ViewLoader. This system handles the animations that are run between scenes to easily flow between scenes.
 
-Forward transitions are marked by using a PointOfInterest to load a scene. The viewer looks at a destination marker or target (i.e.: a planet in the solar system view) and clicks or air taps to start the transition to the new scene. These transitions add a new scene to a stack in the ViewLoader. Back transitions pop the ViewLoader scene stack to determine the scene to go back to. This is triggered through the UI back button or voice command.
+Forward transitions are marked by using a PointOfInterest to load a scene. The viewer looks at a destination marker or target (i.e.: bounded box on the whiteboard) and clicks or air taps to start the transition to the new scene. These transitions add a new scene to a stack in the ViewLoader. Back transitions pop the ViewLoader scene stack to determine the scene to go back to. This is triggered through the UI back button or voice command.
 
 Forward and backward transition flow:
 * The next scene is loaded asynchronously, objects slow to a stop, collisions are disabled, and POIs fade out.
