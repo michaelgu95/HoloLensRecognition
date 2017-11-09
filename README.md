@@ -1,4 +1,5 @@
 ## End-to-end Detection & Visualization of Written Math Expressions in AR System
+![Demo](https://image.ibb.co/j90th5/Screen_Shot_2017_07_22_at_2_42_28_PM.png)
 Features:
 - Voice-initiated image capture using the command "Detect!"
 - Written expression on whiteboard -> LaTex conversion using Mathpix API integration
@@ -9,7 +10,6 @@ Completed as part of COMP590: *Exploring Virtual Worlds* w/ [Dr. Henry Fuchs](ht
 * [Final Presentation Slides](https://docs.google.com/presentation/d/1KWAsIZi9pAkUHzN-lfM9JT1vxZ9pp_INDFsZa68Rlls/edit?usp=sharing)
 
 ---
-![Demo](https://image.ibb.co/j90th5/Screen_Shot_2017_07_22_at_2_42_28_PM.png)
 
 # Sample equations
 z = x+y
