@@ -11,12 +11,20 @@ Completed as part of COMP590: *Exploring Virtual Worlds* w/ [Dr. Henry Fuchs](ht
 
 ---
 
-# Sample equations
-z = x+y
-![](https://image.ibb.co/d45iMR/Screen_Shot_2017_10_24_at_5_13_00_PM.png)
+# Steps to Interact
+Given the equation: z = sin(2pi * sqrt(x^2+y^2))/sqrt(x^2+y^2)
 
-z = sin(sqrt(x^2+y^2))/sqrt(x^2+y^2)
-![](https://image.ibb.co/gh9m25/Screen_Shot_2017_07_22_at_2_48_28_PM.png)
+We first place a bounded box on whiteboard for detection:
+![](https://image.ibb.co/jhpnvG/18216482_10211556058410125_585957143619299263_o.jpg)
+
+Then a projector is placed on suitable surface (table) for projection
+![](https://image.ibb.co/k0pLFG/18238453_10211556026329323_5542052598799346274_o.jpg)
+
+After placement and detection, the 3D graph is rendered in
+![](https://image.ibb.co/j0dEaG/18278696_10211556030049416_2121705230040897972_o.jpg)
+
+Another example: z = x+y
+![](https://image.ibb.co/d45iMR/Screen_Shot_2017_10_24_at_5_13_00_PM.png)
 
 # Build 
 From Unity, choose File->Build Settings to bring up the Build Settings
