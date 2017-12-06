@@ -20,7 +20,7 @@ We first place a bounded box on whiteboard for detection:
 Then a projector is placed on suitable surface (table) for projection
 ![](https://image.ibb.co/k0pLFG/18238453_10211556026329323_5542052598799346274_o.jpg)
 
-After placement and detection, the 3D graph is rendered in
+After placement and detection, the 3D graph of the equation is rendered in-room
 ![](https://image.ibb.co/j0dEaG/18278696_10211556030049416_2121705230040897972_o.jpg)
 
 Another example: z = x+y
